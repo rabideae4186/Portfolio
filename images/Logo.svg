@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st0, .st1 {
+        stroke: #231f20;
+        stroke-width: 5px;
+      }
+
+      .st0, .st1, .st2 {
+        stroke-miterlimit: 10;
+      }
+
+      .st3, .st2 {
+        fill: #eae1db;
+      }
+
+      .st1 {
+        fill: #8391a3;
+      }
+
+      .st2 {
+        stroke: #eae1db;
+      }
+
+      .st4 {
+        fill: #231f20;
+        font-family: DelfinaScript, 'Delfina Script';
+        font-size: 60px;
+      }
+    </style>
+  </defs>
+  <rect class="st2" x="0" width="500" height="500"/>
+  <text class="st4" transform="translate(129.16 258.66) scale(1.11 1)"><tspan x="0" y="0">EmGrace</tspan></text>
+  <rect class="st1" x="150" y="271" width="199" height="88"/>
+  <line class="st0" x1="198" y1="359" x2="277" y2="320"/>
+  <line class="st0" x1="277" y1="320" x2="303" y2="359"/>
+  <line class="st0" x1="290" y1="339.5" x2="319" y2="315"/>
+  <line class="st0" x1="319" y1="315" x2="349" y2="339.5"/>
+  <circle class="st3" cx="184.75" cy="301.75" r="10.75"/>
+</svg>
