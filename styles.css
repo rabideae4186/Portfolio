@@ -8,9 +8,8 @@ Body{
     color:#eae2dd;
     text-align: start;
     display:flex;
-    font-weight: 2px;
     position:absolute;
-    margin:7;
+    margin: 7px;
     bottom:0;
 }
 header>img{
@@ -28,11 +27,10 @@ header>nav{
     color:#8391a3;
     background-color:#eae2dd;
     justify-content: space-between;
-    box-align:center;
     padding:5%;
     margin-bottom:5%;
     text-decoration:none;
-    padding-left:-30px;
+    padding-left:0px;
     width:70%;
     height:17%;
     margin-top:3px;
@@ -73,7 +71,7 @@ p{
     align-items:center;
 }
 .gallery img{
-    align-items: center, column;
+    align-items: center;
     display:block;
    border-radius: 1rem;
     width:100%;
@@ -84,7 +82,6 @@ p{
     height:auto;
     display:flex;
     flex-direction: column;
-    align-items:column, center;
     align-items: center;
 }
 .gallery figcaption{
@@ -172,7 +169,6 @@ h2{
         justify-content:center;
     }
     .gallery img{
-        align-items: row;
         width:100%;
         height:auto;
         max-height:665px;
